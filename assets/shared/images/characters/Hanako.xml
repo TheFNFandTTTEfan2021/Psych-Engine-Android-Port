@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BAKA.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Osana Najimi Down Note instance 10000" x="5899" y="44" width="508" height="1060" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Down Note instance 10001" x="5899" y="44" width="508" height="1060" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Down Note instance 10002" x="6541" y="44" width="508" height="1060" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Left Note instance 10000" x="2177" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Left Note instance 10001" x="2177" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Left Note instance 10002" x="2715" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Right Note instance 10000" x="3293" y="74" width="452" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Right Note instance 10001" x="3293" y="74" width="452" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi Right Note instance 10002" x="3895" y="74" width="452" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi UP Note instance 10000" x="4577" y="86" width="498" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi UP Note instance 10001" x="4577" y="86" width="498" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Najimi UP Note instance 10002" x="5191" y="86" width="498" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10000" x="74" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10001" x="586" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10002" x="1117" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10003" x="1637" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10004" x="1637" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10005" x="1117" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10006" x="586" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+	<SubTexture name="Osana Idle instance 10007" x="74" y="84" width="438" height="1018" frameWidth="470" frameHeight="1500"/>
+</TextureAtlas>
