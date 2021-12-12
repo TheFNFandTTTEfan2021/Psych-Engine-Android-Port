@@ -1,0 +1,78 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -9,
+        10
+      ],
+      "loop": false,
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "Megami Left",
+      "indices": []
+    },
+    {
+      "offsets": [
+        0,
+        -30
+      ],
+      "loop": false,
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "Megami Down",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -6,
+        50
+      ],
+      "loop": false,
+      "anim": "singUP",
+      "fps": 24,
+      "name": "Megami Up",
+      "indices": []
+    },
+    {
+      "offsets": [
+        0,
+        27
+      ],
+      "loop": false,
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "Megami Right",
+      "indices": []
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "stand",
+      "fps": 24,
+      "name": "Saiko Megami",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/megamisaiko",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "dad",
+  "flip_x": false,
+  "healthbar_colors": [
+    175,
+    102,
+    206
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}
